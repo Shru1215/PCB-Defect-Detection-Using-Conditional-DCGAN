@@ -1,4 +1,4 @@
-PCB-Defect-Detection-Conditional-DCGAN
+#PCB-Defect-Detection-Conditional-DCGAN
 
 # PCB Defect Generation using Conditional DCGAN
 
